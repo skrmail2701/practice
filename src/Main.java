@@ -3,9 +3,6 @@ public class Main {
         MyLinkedList myLinkedList=new MyLinkedList();
         myLinkedList.addLast("Sanjeev");
         myLinkedList.addLast("is");
-        myLinkedList.addLast("name");
-        myLinkedList.addLast("My");
-        myLinkedList.addFirst("Hey");
         myLinkedList.addMiddle("am",5);
         myLinkedList.delete(3);
         myLinkedList.printList();
