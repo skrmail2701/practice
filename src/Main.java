@@ -4,6 +4,11 @@ public class Main {
         myLinkedList.addLast("Sanjeev");
         myLinkedList.addLast("is");
         myLinkedList.addMiddle("am",5);
+
+        myLinkedList.addLast("name");
+        myLinkedList.addLast("My");
+        myLinkedList.addFirst("Hey");
+
         myLinkedList.delete(3);
         myLinkedList.printList();
         myLinkedList.reverseLinkedList();
