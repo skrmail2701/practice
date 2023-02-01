@@ -6,7 +6,6 @@ public class Main {
         myLinkedList.addLast("name");
         myLinkedList.addLast("My");
         myLinkedList.addFirst("Hey");
-        myLinkedList.addMiddle("am",5);
         myLinkedList.delete(3);
         myLinkedList.printList();
         myLinkedList.reverseLinkedList();
