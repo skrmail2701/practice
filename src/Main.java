@@ -12,12 +12,6 @@ public class Main {
         myLinkedList.reverseLinkedList();
         myLinkedList.printList();
 
-        MyLinkedList l2=new MyLinkedList();
-        l2.addLast("Sanjeev");
-        l2.addLast("is");
-        l2.printList();
-        l2.reverseLinkedList();
-        l2.printList();
 
         MyLinkedList l3=new MyLinkedList();
         l3.addLast("Sanjeev");
